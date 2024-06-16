@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemdiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemdiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\diemthibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\diemthibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|c:\\users\\tai02\\desktop\\workspace\\comeback\\cs032401cb\\hocvien\\tailh\\sourcecode\\standford_project\\standford_project\\gui\\frmthemdiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemdiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\diemthibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\diemthibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmtracuudiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +35,124 @@
       "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|c:\\users\\tai02\\desktop\\workspace\\comeback\\cs032401cb\\hocvien\\tailh\\sourcecode\\standford_project\\standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|c:\\users\\tai02\\desktop\\workspace\\comeback\\cs032401cb\\hocvien\\tailh\\sourcecode\\standford_project\\standford_project\\gui\\frmquanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\taikhoanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\taikhoanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemdiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemdiemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dto\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dto\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemchuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemchuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\phonghocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\phonghocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemchuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemchuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dto\\diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dto\\diemthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\monhocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\monhocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\sinhvienbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\sinhvienbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemchuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,92 +163,8 @@
       "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\chuyenkhoabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|c:\\users\\tai02\\desktop\\workspace\\comeback\\cs032401cb\\hocvien\\tailh\\sourcecode\\standford_project\\standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|c:\\users\\tai02\\desktop\\workspace\\comeback\\cs032401cb\\hocvien\\tailh\\sourcecode\\standford_project\\standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|c:\\users\\tai02\\desktop\\workspace\\comeback\\cs032401cb\\hocvien\\tailh\\sourcecode\\standford_project\\standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtaotk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\taikhoanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\taikhoanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\sinhvienbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\sinhvienbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlychuyenkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|c:\\users\\tai02\\desktop\\workspace\\comeback\\cs032401cb\\hocvien\\tailh\\sourcecode\\standford_project\\standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlyphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\phonghocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\phonghocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dao\\monhocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dao\\monhocbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\dto\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\dto\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\standford_project\\gui\\frmthemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B021F09-4E39-4E4C-A4D0-DE5CC15B25D3}|Standford_Project\\Standford_Project.csproj|solutionrelative:standford_project\\gui\\frmthemmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,148 +174,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmThemChuyenKhoa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:23.565Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmQuanLyMonHoc.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAhwD4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:12:25.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmThemSinhVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemSinhVien.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemSinhVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:33.466Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmThemPhongHoc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemPhongHoc.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemPhongHoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:30.436Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmTrangChu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTrangChu.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTrangChu.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTrangChu.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmTrangChu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:39.533Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DiemThiBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DiemThiBusiness.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\DAO\\DiemThiBusiness.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DiemThiBusiness.cs",
-              "RelativeToolTip": "Standford_Project\\DAO\\DiemThiBusiness.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAwwDIAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T17:16:20.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmThemDiemThi.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemDiemThi.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemDiemThi.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemDiemThi.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemDiemThi.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAcwCgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T03:50:34.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DataProvider.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\DAO\\DataProvider.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DataProvider.cs",
-              "RelativeToolTip": "Standford_Project\\DAO\\DataProvider.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAHsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:29:07.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmTraCuuDiemThi.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAwEwAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:37.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmTraCuuDiemThi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:36.606Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmThemMonHoc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemMonHoc.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemMonHoc.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemMonHoc.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemMonHoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:27.007Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "frmThemDiemThi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemDiemThi.cs",
               "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemDiemThi.cs",
@@ -311,271 +190,300 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmThemDiemThi.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemDiemThi.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemDiemThi.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemDiemThi.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemDiemThi.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:50:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "frmQuanLyMonHoc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs [Design]",
+              "Title": "frmQuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLySinhVien.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAYwGwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:18.817Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-29T14:19:45.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmThemChuyenKhoa.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAArwBkAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:24.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ChuyenKhoaBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
-              "RelativeToolTip": "Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAIAwwFsAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:32:51.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmQuanLyPhongHoc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:19:16.996Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmQuanLyChuyenKhoa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T03:53:42.604Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
               "Title": "frmQuanLySinhVien.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.cs",
               "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLySinhVien.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.cs [Design]",
               "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLySinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:12:28.23Z",
+              "WhenOpened": "2024-05-29T14:12:28.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmThemSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemSinhVien.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:33.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiemThiBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DiemThiBusiness.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\DAO\\DiemThiBusiness.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DiemThiBusiness.cs",
+              "RelativeToolTip": "Standford_Project\\DAO\\DiemThiBusiness.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwBEAAAAeAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:16:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTrangChu.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTrangChu.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:38:05.612Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "frmQuanLySinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLySinhVien.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLySinhVien.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAwD0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:19:45.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "frmTaoTK.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTaoTK.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmTaoTK.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:50:35.894Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "frmTaoTK.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTaoTK.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmTaoTK.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAD4v0IAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:52:41.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "TaiKhoanBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\TaiKhoanBusiness.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\DAO\\TaiKhoanBusiness.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\TaiKhoanBusiness.cs",
-              "RelativeToolTip": "Standford_Project\\DAO\\TaiKhoanBusiness.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAApwEoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:28:05.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "frmDangNhap.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmDangNhap.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmDangNhap.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:46:38.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "frmDangNhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmDangNhap.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs [Design]",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmDangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T08:35:43.631Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SinhVienBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\SinhVienBusiness.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\DAO\\SinhVienBusiness.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\SinhVienBusiness.cs",
-              "RelativeToolTip": "Standford_Project\\DAO\\SinhVienBusiness.cs",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAuwH0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T13:47:19.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 0,
               "Title": "frmTrangChu.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTrangChu.cs",
               "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTrangChu.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTrangChu.cs",
               "RelativeToolTip": "Standford_Project\\GUI\\frmTrangChu.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswF4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T04:10:03.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "frmQuanLyChuyenKhoa.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADgvxoAAAAJAAAA",
+              "DocumentIndex": 5,
+              "Title": "frmTraCuuDiemThi.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAlwB0AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T03:53:43.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:04:37.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "frmQuanLyPhongHoc.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowCsAAAAVAAAA",
+              "DocumentIndex": 6,
+              "Title": "frmTraCuuDiemThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTraCuuDiemThi.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmTraCuuDiemThi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:11:46.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:04:36.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\Program.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\Program.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\Program.cs",
-              "RelativeToolTip": "Standford_Project\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAswA0AAAAWAAAA",
+              "DocumentIndex": 13,
+              "Title": "frmTaoTK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTaoTK.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmTaoTK.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T09:01:26.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T04:50:35.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "frmQuanLySinhVien.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAkwEsAAAAPAAAA",
+              "DocumentIndex": 10,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmDangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T19:50:37.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T08:35:43.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 20,
+              "Title": "frmDangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmDangNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.Designer.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmDangNhap.Designer.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv3AAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:39:03.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmDangNhap.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmDangNhap.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv0wAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:46:38.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "Standford_Project\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAIAwwHAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:29:07.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "TaiKhoan.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DTO\\TaiKhoan.cs",
               "RelativeDocumentMoniker": "Standford_Project\\DTO\\TaiKhoan.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DTO\\TaiKhoan.cs",
               "RelativeToolTip": "Standford_Project\\DTO\\TaiKhoan.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAcAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T03:27:05.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 11,
+              "Title": "TaiKhoanBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\TaiKhoanBusiness.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\DAO\\TaiKhoanBusiness.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\TaiKhoanBusiness.cs",
+              "RelativeToolTip": "Standford_Project\\DAO\\TaiKhoanBusiness.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAADwv0QAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:28:05.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmTaoTK.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmTaoTK.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmTaoTK.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmTaoTK.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADwv0YAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:52:41.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmQuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:29:58.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmQuanLyTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyTaiKhoan.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvw4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:35:37.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmQuanLyMonHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:18.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmQuanLyPhongHoc.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv04AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:11:46.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmQuanLyPhongHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyPhongHoc.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyPhongHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:19:16.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmThemPhongHoc.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemPhongHoc.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemPhongHoc.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADwvycAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:31.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmThemPhongHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemPhongHoc.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemPhongHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:30.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "PhongHocBusiness.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\PhongHocBusiness.cs",
               "RelativeDocumentMoniker": "Standford_Project\\DAO\\PhongHocBusiness.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\PhongHocBusiness.cs",
               "RelativeToolTip": "Standford_Project\\DAO\\PhongHocBusiness.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAmwAAAAAAcAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T03:32:46.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "MonHocBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\MonHocBusiness.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\DAO\\MonHocBusiness.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\MonHocBusiness.cs",
-              "RelativeToolTip": "Standford_Project\\DAO\\MonHocBusiness.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:33:07.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 25,
               "Title": "MonHoc.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DTO\\MonHoc.cs",
               "RelativeDocumentMoniker": "Standford_Project\\DTO\\MonHoc.cs",
@@ -587,42 +495,168 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "frmThemSinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemSinhVien.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemSinhVien.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAkwIUAAAAMAAAA",
+              "DocumentIndex": 26,
+              "Title": "frmThemChuyenKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:34.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:04:23.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "frmThemPhongHoc.cs",
-              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs",
-              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemPhongHoc.cs",
-              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemPhongHoc.cs",
-              "RelativeToolTip": "Standford_Project\\GUI\\frmThemPhongHoc.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAkwEgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:31.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 28,
               "Title": "frmThemMonHoc.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemMonHoc.cs",
               "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemMonHoc.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemMonHoc.cs",
               "RelativeToolTip": "Standford_Project\\GUI\\frmThemMonHoc.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwCUAAAAMAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAzwBcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:04:28.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:04:28.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmThemMonHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemMonHoc.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemMonHoc.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemMonHoc.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:27.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DiemThi.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DTO\\DiemThi.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\DTO\\DiemThi.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DTO\\DiemThi.cs",
+              "RelativeToolTip": "Standford_Project\\DTO\\DiemThi.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:53:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmThemSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemSinhVien.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemSinhVien.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemSinhVien.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:34.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MonHocBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\MonHocBusiness.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\DAO\\MonHocBusiness.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\MonHocBusiness.cs",
+              "RelativeToolTip": "Standford_Project\\DAO\\MonHocBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:33:07.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SinhVienBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\SinhVienBusiness.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\DAO\\SinhVienBusiness.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\SinhVienBusiness.cs",
+              "RelativeToolTip": "Standford_Project\\DAO\\SinhVienBusiness.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwGUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:47:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmQuanLyChuyenKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwEgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:53:43.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmQuanLyChuyenKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs [Design]",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyChuyenKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:53:42.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmQuanLyMonHoc.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLyMonHoc.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAgwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:12:25.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\Program.cs",
+              "RelativeToolTip": "Standford_Project\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:01:26.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmThemChuyenKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmThemChuyenKhoa.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAApwBkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:04:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChuyenKhoaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
+              "RelativeToolTip": "Standford_Project\\DAO\\ChuyenKhoaBusiness.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAIAwwFsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:32:51.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmQuanLySinhVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\WorkSpace\\Comeback\\CS032401CB\\HocVien\\tailh\\SourceCode\\Standford_Project\\Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
+              "RelativeToolTip": "Standford_Project\\GUI\\frmQuanLySinhVien.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwEsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:50:37.299Z"
             }
           ]
         }

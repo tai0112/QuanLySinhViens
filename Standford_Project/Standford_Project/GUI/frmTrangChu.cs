@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -13,16 +14,27 @@ namespace Standford_Project
 {
     public partial class frmTrangChu : Form
     {
-        public int LoaiTK { get; set; }
+        public static int LoaiTK { get; set; }
+        public static string HoTen { get; set; } = "";
         public frmTrangChu()
         {
             InitializeComponent();
         }
 
+        private void KiemTraDangNhap()
+        {
+
+        }
+
+        private void DangNhapHeThong()
+        {
+            frmDangNhap dangNhap = new frmDangNhap();
+            dangNhap.ShowDialog();
+        }
+
         private void menuItemMonHoc_Click(object sender, EventArgs e)
         {
             frmQuanLyMonHoc quanLyMonHoc = new frmQuanLyMonHoc();
-            quanLyMonHoc.LoaiTK = LoaiTK;
             quanLyMonHoc.MdiParent = this;
             quanLyMonHoc.Show();
         }
@@ -30,7 +42,6 @@ namespace Standford_Project
         private void menuItemChuyenKhoa_Click(object sender, EventArgs e)
         {
             frmQuanLyChuyenKhoa chuyenKhoa = new frmQuanLyChuyenKhoa();
-            chuyenKhoa.LoaiTK = LoaiTK;
             chuyenKhoa.MdiParent = this;
             chuyenKhoa.Show();
         }
@@ -38,7 +49,6 @@ namespace Standford_Project
         private void menuItemPhongThi_Click(object sender, EventArgs e)
         {
             frmQuanLyPhongHoc phongHoc = new frmQuanLyPhongHoc();
-            phongHoc.LoaiTK = LoaiTK;
             phongHoc.MdiParent = this;
             phongHoc.Show();
         }
@@ -46,7 +56,6 @@ namespace Standford_Project
         private void menuItemQuanLySinhVien_Click(object sender, EventArgs e)
         {
             frmQuanLySinhVien quanLySinhVien = new frmQuanLySinhVien();
-            quanLySinhVien.LoaiTK = LoaiTK;
             quanLySinhVien.MdiParent = this;
             quanLySinhVien.Show();
         }
@@ -54,7 +63,6 @@ namespace Standford_Project
         private void menuItemThemDiemThi_Click(object sender, EventArgs e)
         {
             frmThemDiemThi themDiemThi = new frmThemDiemThi();
-            themDiemThi.LoaiTK = LoaiTK;
             themDiemThi.MdiParent = this;
             themDiemThi.Show();
         }
@@ -62,17 +70,56 @@ namespace Standford_Project
         private void menuItemTraCuu_Click(object sender, EventArgs e)
         {
             frmTraCuuDiemThi traCuu = new frmTraCuuDiemThi();
-            traCuu.LoaiTK = LoaiTK;
             traCuu.MdiParent = this;
             traCuu.Show();
         }
 
+        private void KiemTraDangNhap(bool isLogin)
+        {
+            menuNghiepVu.Enabled = isLogin;
+            menuDanhMuc.Enabled = isLogin;
+            menuBaoCao.Enabled = isLogin;
+            menuTroGiup.Enabled = isLogin;
+            menuItemDangNhap.Visible = !isLogin;
+            tsmenuDangXuat.Visible = isLogin;
+            if(isLogin)
+            {
+                lblTrangThaiDangNhap.Text = "Đang đăng nhập";
+            }else
+            {
+                lblTrangThaiDangNhap.Text = "Chưa đăng nhập";
+            }
+        }
+        private void PhanQuyen(bool isAdmin)
+        {
+            menuItemQltk.Visible = isAdmin;
+            menuItemThemDiemThi.Visible = isAdmin;
+        }
+
         private void frmTrangChu_Load(object sender, EventArgs e)
         {
-            if(LoaiTK != 1)
-            {
-                menuItemThemDiemThi.Visible = false;
-            }
+            DangNhapHeThong();
+            PhanQuyen(LoaiTK == 1);
+            KiemTraDangNhap(frmDangNhap.isLogin);
+        }
+
+        private void tsmenuDangXuat_Click(object sender, EventArgs e)
+        {
+            frmDangNhap.isLogin = false;
+            DangNhapHeThong();
+            KiemTraDangNhap(frmDangNhap.isLogin);
+        }
+
+        private void menuItemDangNhap_Click(object sender, EventArgs e)
+        {
+            DangNhapHeThong();
+        }
+
+        private void menuItemQltk_Click(object sender, EventArgs e)
+        {
+            frmQuanLyTaiKhoan qltk = new frmQuanLyTaiKhoan();
+            qltk.MdiParent = this;
+            qltk.Show();
         }
     }
 }

@@ -29,6 +29,10 @@ namespace Standford_Project.GUI
             cbbChuyenKhoa.DataSource = dtCK;
             cbbChuyenKhoa.DisplayMember = "TenKhoa";
             cbbChuyenKhoa.ValueMember = "MaKhoa";
+            if(Id != -1)
+            {
+                txtMaSV.Enabled = false;
+            }
         }
         private void HienThiThongTin()
         {
@@ -116,6 +120,10 @@ namespace Standford_Project.GUI
                 ketQua = DataProvider.SinhVienBus.Them(sv);
             }else
             {
+                if(DataProvider.SinhVienBus.KiemTra(sv))
+                {
+
+                }
                 ketQua = DataProvider.SinhVienBus.Sua(sv);
             }
 

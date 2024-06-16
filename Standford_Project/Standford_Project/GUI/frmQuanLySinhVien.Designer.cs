@@ -39,9 +39,9 @@
             this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.cbbChuyenKhoa = new System.Windows.Forms.ComboBox();
+            this.btnTImKiem = new System.Windows.Forms.Button();
             this.txtTimKiem = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnTImKiem = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
@@ -158,6 +158,19 @@
             this.cbbChuyenKhoa.Size = new System.Drawing.Size(228, 24);
             this.cbbChuyenKhoa.TabIndex = 2;
             // 
+            // btnTImKiem
+            // 
+            this.btnTImKiem.Image = global::Standford_Project.Properties.Resources.search;
+            this.btnTImKiem.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnTImKiem.Location = new System.Drawing.Point(681, 46);
+            this.btnTImKiem.Margin = new System.Windows.Forms.Padding(4);
+            this.btnTImKiem.Name = "btnTImKiem";
+            this.btnTImKiem.Size = new System.Drawing.Size(122, 24);
+            this.btnTImKiem.TabIndex = 1;
+            this.btnTImKiem.Text = "Tìm kiếm";
+            this.btnTImKiem.UseVisualStyleBackColor = true;
+            this.btnTImKiem.Click += new System.EventHandler(this.btnTImKiem_Click);
+            // 
             // txtTimKiem
             // 
             this.txtTimKiem.Location = new System.Drawing.Point(16, 48);
@@ -178,19 +191,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1155, 90);
             this.panel1.TabIndex = 8;
-            // 
-            // btnTImKiem
-            // 
-            this.btnTImKiem.Image = global::Standford_Project.Properties.Resources.search;
-            this.btnTImKiem.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnTImKiem.Location = new System.Drawing.Point(687, 46);
-            this.btnTImKiem.Margin = new System.Windows.Forms.Padding(4);
-            this.btnTImKiem.Name = "btnTImKiem";
-            this.btnTImKiem.Size = new System.Drawing.Size(116, 24);
-            this.btnTImKiem.TabIndex = 1;
-            this.btnTImKiem.Text = "Tìm kiếm";
-            this.btnTImKiem.UseVisualStyleBackColor = true;
-            this.btnTImKiem.Click += new System.EventHandler(this.btnTImKiem_Click);
             // 
             // btnThem
             // 

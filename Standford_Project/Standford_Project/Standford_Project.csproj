@@ -89,6 +89,12 @@
     <Compile Include="GUI\frmQuanLySinhVien.Designer.cs">
       <DependentUpon>frmQuanLySinhVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\frmQuanLyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmQuanLyTaiKhoan.Designer.cs">
+      <DependentUpon>frmQuanLyTaiKhoan.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\frmTaoTK.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -153,6 +159,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\frmQuanLySinhVien.resx">
       <DependentUpon>frmQuanLySinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmQuanLyTaiKhoan.resx">
+      <DependentUpon>frmQuanLyTaiKhoan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\frmTaoTK.resx">
       <DependentUpon>frmTaoTK.cs</DependentUpon>
@@ -450,6 +459,8 @@
     <Content Include="Images\write email.png" />
     <Content Include="Images\xls.gif" />
     <Content Include="Images\ZoomHS.png" />
+    <None Include="Resources\1031.png" />
+    <None Include="Resources\login_icon.png" />
     <None Include="Resources\search.png" />
     <None Include="Resources\edit.gif" />
     <None Include="Resources\cancel1.gif" />

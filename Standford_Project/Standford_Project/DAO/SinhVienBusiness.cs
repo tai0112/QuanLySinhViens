@@ -41,7 +41,7 @@ namespace Standford_Project.DAO
             return pars;
         }
 
-        private bool KiemTra(SinhVien sv)
+        public bool KiemTra(SinhVien sv)
         {
             bool ketQua = true;
 
@@ -76,7 +76,7 @@ namespace Standford_Project.DAO
 
             if (sv != null)
             {
-                string sqlSua = "UPDATE SinhVien SET MaSV = @MaSV, HoTen = @HoTen, GioiTinh = @GioiTinh, DienThoai = @DienThoai, Email = @Email, ChuyenKhoa = @ChuyenKhoa, DiaChi = @DiaChi WHERE Id = @Id";
+                string sqlSua = "UPDATE SinhVien SET HoTen = @HoTen, GioiTinh = @GioiTinh, DienThoai = @DienThoai, Email = @Email, ChuyenKhoa = @ChuyenKhoa, DiaChi = @DiaChi WHERE Id = @Id";
                 SqlParameter[] pars = SinhVienPars(sv);
                 ketQua = DataProvider.ThucHien(sqlSua, pars);
             }

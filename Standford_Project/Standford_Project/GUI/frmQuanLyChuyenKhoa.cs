@@ -13,7 +13,6 @@ namespace Standford_Project.GUI
 {
     public partial class frmQuanLyChuyenKhoa : Form
     {
-        public int LoaiTK { get; set; }
         public frmQuanLyChuyenKhoa()
         {
             InitializeComponent();
@@ -40,7 +39,7 @@ namespace Standford_Project.GUI
                 dtgvChuyenNganh.DataSource = DataProvider.ChuyenKhoaBus.LayDanhSach();
             }
 
-            if(LoaiTK != 1)
+            if(frmTrangChu.LoaiTK != 1)
             {
                 An();
             }

@@ -13,7 +13,6 @@ namespace Standford_Project.GUI
 {
     public partial class frmQuanLyPhongHoc : Form
     {
-        public int LoaiTK { get; set; }
         public frmQuanLyPhongHoc()
         {
             InitializeComponent();
@@ -39,7 +38,7 @@ namespace Standford_Project.GUI
                 dtgvPhongHoc.DataSource = DataProvider.PhongHocBus.LayDanhSach();
             }
 
-            if(LoaiTK != 1)
+            if(frmTrangChu.LoaiTK != 1)
             {
                 An();
             }

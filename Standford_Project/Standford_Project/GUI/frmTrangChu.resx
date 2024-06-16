@@ -124,11 +124,74 @@
   <data name="menuStrip1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 11.25pt</value>
   </data>
+  <data name="tsmenuHoTen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 24</value>
+  </data>
+  <data name="tsmenuHoTen.Text" xml:space="preserve">
+    <value>Người dùng</value>
+  </data>
+  <data name="tsmenuDangXuat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 24</value>
+  </data>
+  <data name="tsmenuDangXuat.Text" xml:space="preserve">
+    <value>Đăng xuất</value>
+  </data>
+  <data name="menuItemDangNhap.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 24</value>
+  </data>
+  <data name="menuItemDangNhap.Text" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+  <data name="menuItemQltk.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 24</value>
+  </data>
+  <data name="menuItemQltk.Text" xml:space="preserve">
+    <value>Quản lý tài khoản</value>
+  </data>
   <data name="menuHeThong.Size" type="System.Drawing.Size, System.Drawing">
     <value>99, 24</value>
   </data>
   <data name="menuHeThong.Text" xml:space="preserve">
     <value>Hệ thống</value>
+  </data>
+  <data name="menuItemQuanLySinhVien.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 24</value>
+  </data>
+  <data name="menuItemQuanLySinhVien.Text" xml:space="preserve">
+    <value>Quản lý sinh viên</value>
+  </data>
+  <data name="menuItemChuyenKhoa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 24</value>
+  </data>
+  <data name="menuItemChuyenKhoa.Text" xml:space="preserve">
+    <value>Chuyên khoa</value>
+  </data>
+  <data name="menuItemMonHoc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 24</value>
+  </data>
+  <data name="menuItemMonHoc.Text" xml:space="preserve">
+    <value>Môn học</value>
+  </data>
+  <data name="menuItemPhongThi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 24</value>
+  </data>
+  <data name="menuItemPhongThi.Text" xml:space="preserve">
+    <value>Phòng thi</value>
+  </data>
+  <data name="menuItemThemDiemThi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 24</value>
+  </data>
+  <data name="menuItemThemDiemThi.Text" xml:space="preserve">
+    <value>Thêm điểm thi</value>
+  </data>
+  <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 6</value>
+  </data>
+  <data name="menuItemTraCuu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 24</value>
+  </data>
+  <data name="menuItemTraCuu.Text" xml:space="preserve">
+    <value>Tra cứu điểm thi</value>
   </data>
   <data name="menuNghiepVu.Size" type="System.Drawing.Size, System.Drawing">
     <value>105, 24</value>
@@ -181,46 +244,49 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <data name="lblTrangThaiDangNhap.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 17</value>
+  </data>
+  <data name="lblTrangThaiDangNhap.Text" xml:space="preserve">
+    <value>Chưa đăng nhập</value>
+  </data>
+  <data name="tblTrangThaiDangNhap.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 17</value>
+  </data>
+  <data name="tblTrangThaiDangNhap.Text" xml:space="preserve">
+    <value>:Trạng thái đăng nhập</value>
+  </data>
+  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 535</value>
+  </data>
+  <data name="statusStrip1.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>924, 22</value>
+  </data>
+  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="statusStrip1.Text" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Name" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="menuItemQuanLySinhVien.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 24</value>
-  </data>
-  <data name="menuItemQuanLySinhVien.Text" xml:space="preserve">
-    <value>Quản lý sinh viên</value>
-  </data>
-  <data name="menuItemChuyenKhoa.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 24</value>
-  </data>
-  <data name="menuItemChuyenKhoa.Text" xml:space="preserve">
-    <value>Chuyên khoa</value>
-  </data>
-  <data name="menuItemMonHoc.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 24</value>
-  </data>
-  <data name="menuItemMonHoc.Text" xml:space="preserve">
-    <value>Môn học</value>
-  </data>
-  <data name="menuItemPhongThi.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 24</value>
-  </data>
-  <data name="menuItemPhongThi.Text" xml:space="preserve">
-    <value>Phòng thi</value>
-  </data>
-  <data name="menuItemThemDiemThi.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 24</value>
-  </data>
-  <data name="menuItemThemDiemThi.Text" xml:space="preserve">
-    <value>Thêm điểm thi</value>
-  </data>
-  <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>186, 6</value>
-  </data>
-  <data name="menuItemTraCuu.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 24</value>
-  </data>
-  <data name="menuItemTraCuu.Text" xml:space="preserve">
-    <value>Tra cứu điểm thi</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -244,6 +310,24 @@
     <value>menuHeThong</value>
   </data>
   <data name="&gt;&gt;menuHeThong.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsmenuHoTen.Name" xml:space="preserve">
+    <value>tsmenuHoTen</value>
+  </data>
+  <data name="&gt;&gt;tsmenuHoTen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsmenuDangXuat.Name" xml:space="preserve">
+    <value>tsmenuDangXuat</value>
+  </data>
+  <data name="&gt;&gt;tsmenuDangXuat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuItemDangNhap.Name" xml:space="preserve">
+    <value>menuItemDangNhap</value>
+  </data>
+  <data name="&gt;&gt;menuItemDangNhap.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;menuNghiepVu.Name" xml:space="preserve">
@@ -310,6 +394,24 @@
     <value>menuTroGiup</value>
   </data>
   <data name="&gt;&gt;menuTroGiup.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTrangThaiDangNhap.Name" xml:space="preserve">
+    <value>lblTrangThaiDangNhap</value>
+  </data>
+  <data name="&gt;&gt;lblTrangThaiDangNhap.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tblTrangThaiDangNhap.Name" xml:space="preserve">
+    <value>tblTrangThaiDangNhap</value>
+  </data>
+  <data name="&gt;&gt;tblTrangThaiDangNhap.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuItemQltk.Name" xml:space="preserve">
+    <value>menuItemQltk</value>
+  </data>
+  <data name="&gt;&gt;menuItemQltk.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">

@@ -29,18 +29,21 @@ namespace Standford_Project.DAO
                 tk.TenDangNhap = "" + dt.Rows[0]["TenDangNhap"];
                 tk.MatKhau = "" + dt.Rows[0]["MatKhau"];
                 tk.LoaiTK = int.Parse("" + dt.Rows[0]["LoaiTK"]);
+                tk.HoTen = "" + dt.Rows[0]["HoTen"];
             }
             return tk;
         }
         public SqlParameter[] TaiKhoanPars(TaiKhoan tk)
         {
-            SqlParameter[] pars = new SqlParameter[3];
+            SqlParameter[] pars = new SqlParameter[4];
             pars[0] = new SqlParameter("@TenDangNhap", SqlDbType.NChar, 20);
             pars[0].Value = tk.TenDangNhap;
             pars[1] = new SqlParameter("@MatKhau", SqlDbType.NChar, 20);
             pars[1].Value = tk.MatKhau;
             pars[2] = new SqlParameter("@LoaiTK", SqlDbType.TinyInt);
             pars[2].Value = tk.LoaiTK;
+            pars[3] = new SqlParameter("@HoTen", SqlDbType.NVarChar, 50);
+            pars[3].Value = tk.HoTen;
             return pars;
         }
         public bool KiemTra(TaiKhoan tk = null, string taiKhoan = null)
@@ -68,7 +71,7 @@ namespace Standford_Project.DAO
             bool ketQua = false;
             if(tk != null)
             {
-                string sqlThem = "INSERT INTO TaiKhoan(TenDangNhap, MatKhau, LoaiTK) VALUES(@TenDangNhap, @MatKhau, 0)";
+                string sqlThem = "INSERT INTO TaiKhoan(HoTen ,TenDangNhap, MatKhau, LoaiTK) VALUES(@HoTen, @TenDangNhap, @MatKhau, 0)";
                 SqlParameter[] pars = TaiKhoanPars(tk);
                 ketQua = DataProvider.ThucHien(sqlThem, pars);
             }
@@ -79,7 +82,7 @@ namespace Standford_Project.DAO
             bool ketQua = false;
             if(tk != null)
             {
-                string sqlSua = "UPDATE FROM TaiKhoan SET MatKhau = @MatKhau, LoaiTK = @LoaiTK WHERE TenDangNhap = @TenDangNhap";
+                string sqlSua = "UPDATE FROM TaiKhoan SET MatKhau = @MatKhau, LoaiTK = @LoaiTK, HoTen = @HoTen WHERE TenDangNhap = @TenDangNhap";
                 SqlParameter[] pars = TaiKhoanPars(tk);
                 ketQua = DataProvider.ThucHien(sqlSua, pars);
             }

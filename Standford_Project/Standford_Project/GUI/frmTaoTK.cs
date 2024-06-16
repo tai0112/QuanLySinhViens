@@ -21,11 +21,12 @@ namespace Standford_Project.GUI
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
-            string taiKhoan = "", matKhau = "", nhapLai = "";
+            string taiKhoan = "", matKhau = "", nhapLai = "", hoTen = "";
             bool ketQua = false;
+            hoTen = txtChuTaiKhoan.Text.Trim();
             taiKhoan = txtTenDangNhap.Text.Trim();
-            matKhau = txtMatKhau.Text.Trim();
-            nhapLai = txtNhapLaiMK.Text.Trim();
+            matKhau = DataProvider.MD5Hash(txtMatKhau.Text.Trim());
+            nhapLai = DataProvider.MD5Hash(txtNhapLaiMK.Text.Trim());
 
             if(string.IsNullOrEmpty(taiKhoan))
             {
@@ -48,6 +49,13 @@ namespace Standford_Project.GUI
                 return;
             }
 
+            if (string.IsNullOrEmpty(hoTen))
+            {
+                MessageBox.Show("Chưa nhập họ tên chủ tài khoản !!!", "Thông báo");
+                txtChuTaiKhoan.Focus();
+                return;
+            }
+
             bool check = DataProvider.TaiKhoanBus.KiemTra(null, taiKhoan);
             if(check)
             {
@@ -59,6 +67,7 @@ namespace Standford_Project.GUI
             TaiKhoan tk = new TaiKhoan();
             tk.TenDangNhap = taiKhoan;
             tk.MatKhau = matKhau;
+            tk.HoTen = hoTen;
             ketQua = DataProvider.TaiKhoanBus.Them(tk);
             if(ketQua)
             {

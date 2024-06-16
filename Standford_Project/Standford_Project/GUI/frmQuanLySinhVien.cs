@@ -14,7 +14,7 @@ namespace Standford_Project.GUI
 {
     public partial class frmQuanLySinhVien : Form
     {
-        public int LoaiTK { get; set; }
+        public int MaSV { get; set; } = -1;
         public bool ThemDiem { get; set; } = false;   
         public frmQuanLySinhVien()
         {
@@ -37,7 +37,7 @@ namespace Standford_Project.GUI
             cbbChuyenKhoa.ValueMember = "MaKhoa";
             cbbChuyenKhoa.DataSource = ck;
 
-            if(LoaiTK != 1)
+            if(frmTrangChu.LoaiTK != 1)
             {
                 An();
             }
@@ -104,7 +104,8 @@ namespace Standford_Project.GUI
         {
             if(ThemDiem == true)
             {
-                
+                Debug.WriteLine("a");
+                frmThemDiemThi.MaSV = int.Parse("" + dtgvSinhVien.CurrentRow.Cells[0].Value);
             }
         }
     }
