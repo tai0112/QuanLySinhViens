@@ -330,6 +330,12 @@
   <data name="&gt;&gt;menuItemDangNhap.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;menuItemQltk.Name" xml:space="preserve">
+    <value>menuItemQltk</value>
+  </data>
+  <data name="&gt;&gt;menuItemQltk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;menuNghiepVu.Name" xml:space="preserve">
     <value>menuNghiepVu</value>
   </data>
@@ -407,12 +413,6 @@
   </data>
   <data name="&gt;&gt;tblTrangThaiDangNhap.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;menuItemQltk.Name" xml:space="preserve">
-    <value>menuItemQltk</value>
-  </data>
-  <data name="&gt;&gt;menuItemQltk.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>frmTrangChu</value>

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -14,6 +15,7 @@ namespace Standford_Project.GUI
 {
     public partial class frmTaoTK : Form
     {
+        public string tenDangNhap { get; set; } = "";
         public frmTaoTK()
         {
             InitializeComponent();
@@ -56,23 +58,52 @@ namespace Standford_Project.GUI
                 return;
             }
 
-            bool check = DataProvider.TaiKhoanBus.KiemTra(null, taiKhoan);
-            if(check)
-            {
-                MessageBox.Show("Tên đăng nhập đã được sử dụng vui lòng thử lại tên đăng nhập khác ", "Thông báo");
-                txtTenDangNhap.Clear();
-                txtTenDangNhap.Focus();
-                return;
-            }
             TaiKhoan tk = new TaiKhoan();
             tk.TenDangNhap = taiKhoan;
             tk.MatKhau = matKhau;
             tk.HoTen = hoTen;
-            ketQua = DataProvider.TaiKhoanBus.Them(tk);
+            bool isAdmin = cbAdmin.Checked;
+
+            if (!string.IsNullOrEmpty(tenDangNhap))
+            {
+                ketQua = DataProvider.TaiKhoanBus.Sua(tk, isAdmin);
+            }
+            else
+            {
+                ketQua = DataProvider.TaiKhoanBus.Them(tk, isAdmin);
+            }
+
             if(ketQua)
             {
                 MessageBox.Show("Tạo tài khoản thành công", "Thông báo");
+            }else
+            {
+                MessageBox.Show("Tạo tài khoản không thành công", "Thông báo");
             }
+            this.Close();
+        }
+
+        private void HienThiTaiKhoan()
+        {
+            if(tenDangNhap.Length > 0)
+            {
+                TaiKhoan tk = DataProvider.TaiKhoanBus.HienThiChiTietTaiKhoan(tenDangNhap);
+                txtTenDangNhap.Text = tk.TenDangNhap.Trim();
+                txtChuTaiKhoan.Text = tk.HoTen.Trim();
+            }
+        }
+
+        private void frmTaoTK_Load(object sender, EventArgs e)
+        {
+            if(frmTrangChu.LoaiTK != 1)
+            {
+                cbAdmin.Visible = false;
+            }
+            HienThiTaiKhoan();
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
             this.Close();
         }
     }

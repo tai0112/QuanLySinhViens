@@ -459,6 +459,11 @@
     <Content Include="Images\write email.png" />
     <Content Include="Images\xls.gif" />
     <Content Include="Images\ZoomHS.png" />
+    <None Include="Resources\Clipboard Edit 21.png" />
+    <None Include="Resources\exp.gif" />
+    <None Include="Resources\SychronizeListHS.png" />
+    <None Include="Resources\book_edit.png" />
+    <None Include="Resources\Clipboard Edit 2.png" />
     <None Include="Resources\1031.png" />
     <None Include="Resources\login_icon.png" />
     <None Include="Resources\search.png" />

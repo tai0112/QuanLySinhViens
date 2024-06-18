@@ -33,6 +33,18 @@ namespace Standford_Project.DAO
             }
             return tk;
         }
+
+        public DataTable TimKiemChiTietTaiKhoan(string data)
+        {
+            DataTable dt = null;
+            string sqlTimKiem = "SELECT * FROM TaiKhoan";
+            if (!string.IsNullOrEmpty(data))
+            {
+                sqlTimKiem += string.Format(" WHERE TenDangNhap = '{0}'", data);
+            }
+            dt = DataProvider.LayDanhSach(sqlTimKiem);
+            return dt;
+        } 
         public SqlParameter[] TaiKhoanPars(TaiKhoan tk)
         {
             SqlParameter[] pars = new SqlParameter[4];
@@ -66,31 +78,55 @@ namespace Standford_Project.DAO
             ketQua = DataProvider.KiemTra(strSQL, pars) > 0;
             return ketQua;
         }
-        public bool Them(TaiKhoan tk)
+        public bool Them(TaiKhoan tk, bool isAdmin)
         {
             bool ketQua = false;
-            if(tk != null)
+            if (tk != null)
             {
-                string sqlThem = "INSERT INTO TaiKhoan(HoTen ,TenDangNhap, MatKhau, LoaiTK) VALUES(@HoTen, @TenDangNhap, @MatKhau, 0)";
+                bool check = DataProvider.TaiKhoanBus.KiemTra(null, tk.TenDangNhap);
+                string sqlThem = "";
+                if (!check)
+                {
+                    if (isAdmin)
+                    {
+                        sqlThem = "INSERT INTO TaiKhoan(HoTen ,TenDangNhap, MatKhau, LoaiTK) VALUES(@HoTen, @TenDangNhap, @MatKhau, 1)";
+                    }
+                    else
+                    {
+                        sqlThem = "INSERT INTO TaiKhoan(HoTen ,TenDangNhap, MatKhau, LoaiTK) VALUES(@HoTen, @TenDangNhap, @MatKhau, 0)";
+                    }
+                }else
+                {
+                    MessageBox.Show("Tên tài khoản bị trùng vui lòng thử lại", "Thông báo");
+                    return false;
+                }
                 SqlParameter[] pars = TaiKhoanPars(tk);
                 ketQua = DataProvider.ThucHien(sqlThem, pars);
             }
             return ketQua;
         }
-        public bool Sua(TaiKhoan tk)
+        public bool Sua(TaiKhoan tk, bool isAdmin)
         {
             bool ketQua = false;
             if(tk != null)
             {
-                string sqlSua = "UPDATE FROM TaiKhoan SET MatKhau = @MatKhau, LoaiTK = @LoaiTK, HoTen = @HoTen WHERE TenDangNhap = @TenDangNhap";
+                string sqlSua = "";
+                if (isAdmin)
+                {
+                    sqlSua = "UPDATE TaiKhoan SET MatKhau = @MatKhau, HoTen = @HoTen, LoaiTK = 1 WHERE TenDangNhap = @TenDangNhap";
+                }else
+                {
+                    sqlSua = "UPDATE TaiKhoan SET MatKhau = @MatKhau, HoTen = @HoTen, LoaiTK = 0 WHERE TenDangNhap = @TenDangNhap";
+                }
                 SqlParameter[] pars = TaiKhoanPars(tk);
                 ketQua = DataProvider.ThucHien(sqlSua, pars);
             }
             return ketQua;
         }
-        public bool Xoa(TaiKhoan tk)
+        public bool Xoa(string tenDangNhap)
         {
             bool ketQua = false;
+            TaiKhoan tk = DataProvider.TaiKhoanBus.HienThiChiTietTaiKhoan(tenDangNhap);
             if(tk != null)
             {
                 string sqlXoa = "DELETE FROM TaiKhoan WHERE TenDangNhap = @TenDangNhap";

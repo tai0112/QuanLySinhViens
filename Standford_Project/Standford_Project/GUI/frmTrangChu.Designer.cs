@@ -34,6 +34,7 @@
             this.tsmenuHoTen = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmenuDangXuat = new System.Windows.Forms.ToolStripMenuItem();
             this.menuItemDangNhap = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuItemQltk = new System.Windows.Forms.ToolStripMenuItem();
             this.menuNghiepVu = new System.Windows.Forms.ToolStripMenuItem();
             this.menuItemQuanLySinhVien = new System.Windows.Forms.ToolStripMenuItem();
             this.menuItemChuyenKhoa = new System.Windows.Forms.ToolStripMenuItem();
@@ -48,7 +49,6 @@
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.lblTrangThaiDangNhap = new System.Windows.Forms.ToolStripStatusLabel();
             this.tblTrangThaiDangNhap = new System.Windows.Forms.ToolStripStatusLabel();
-            this.menuItemQltk = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -93,6 +93,12 @@
             resources.ApplyResources(this.menuItemDangNhap, "menuItemDangNhap");
             this.menuItemDangNhap.Click += new System.EventHandler(this.menuItemDangNhap_Click);
             // 
+            // menuItemQltk
+            // 
+            this.menuItemQltk.Name = "menuItemQltk";
+            resources.ApplyResources(this.menuItemQltk, "menuItemQltk");
+            this.menuItemQltk.Click += new System.EventHandler(this.menuItemQltk_Click);
+            // 
             // menuNghiepVu
             // 
             this.menuNghiepVu.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -116,24 +122,28 @@
             // 
             // menuItemChuyenKhoa
             // 
+            this.menuItemChuyenKhoa.Image = global::Standford_Project.Properties.Resources.Clipboard_Edit_2;
             this.menuItemChuyenKhoa.Name = "menuItemChuyenKhoa";
             resources.ApplyResources(this.menuItemChuyenKhoa, "menuItemChuyenKhoa");
             this.menuItemChuyenKhoa.Click += new System.EventHandler(this.menuItemChuyenKhoa_Click);
             // 
             // menuItemMonHoc
             // 
+            this.menuItemMonHoc.Image = global::Standford_Project.Properties.Resources.book_edit;
             this.menuItemMonHoc.Name = "menuItemMonHoc";
             resources.ApplyResources(this.menuItemMonHoc, "menuItemMonHoc");
             this.menuItemMonHoc.Click += new System.EventHandler(this.menuItemMonHoc_Click);
             // 
             // menuItemPhongThi
             // 
+            this.menuItemPhongThi.Image = global::Standford_Project.Properties.Resources.SychronizeListHS;
             this.menuItemPhongThi.Name = "menuItemPhongThi";
             resources.ApplyResources(this.menuItemPhongThi, "menuItemPhongThi");
             this.menuItemPhongThi.Click += new System.EventHandler(this.menuItemPhongThi_Click);
             // 
             // menuItemThemDiemThi
             // 
+            this.menuItemThemDiemThi.Image = global::Standford_Project.Properties.Resources.exp;
             this.menuItemThemDiemThi.Name = "menuItemThemDiemThi";
             resources.ApplyResources(this.menuItemThemDiemThi, "menuItemThemDiemThi");
             this.menuItemThemDiemThi.Click += new System.EventHandler(this.menuItemThemDiemThi_Click);
@@ -145,6 +155,7 @@
             // 
             // menuItemTraCuu
             // 
+            this.menuItemTraCuu.Image = global::Standford_Project.Properties.Resources.Clipboard_Edit_21;
             this.menuItemTraCuu.Name = "menuItemTraCuu";
             resources.ApplyResources(this.menuItemTraCuu, "menuItemTraCuu");
             this.menuItemTraCuu.Click += new System.EventHandler(this.menuItemTraCuu_Click);
@@ -181,12 +192,6 @@
             // 
             this.tblTrangThaiDangNhap.Name = "tblTrangThaiDangNhap";
             resources.ApplyResources(this.tblTrangThaiDangNhap, "tblTrangThaiDangNhap");
-            // 
-            // menuItemQltk
-            // 
-            this.menuItemQltk.Name = "menuItemQltk";
-            resources.ApplyResources(this.menuItemQltk, "menuItemQltk");
-            this.menuItemQltk.Click += new System.EventHandler(this.menuItemQltk_Click);
             // 
             // frmTrangChu
             // 

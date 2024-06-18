@@ -18,9 +18,8 @@ namespace Standford_Project.GUI
 {
     public partial class frmDangNhap : Form
     {
-        static string hash { get; set; } = "A!9HHhi%XjjYY4YP2@Nob009X";
         public static bool isLogin { get; set; } = false;
-        public static int loaiTK { get; set; }
+        public static int loaiTK { get; set; } = -1;
         public frmDangNhap()
         {
             InitializeComponent();

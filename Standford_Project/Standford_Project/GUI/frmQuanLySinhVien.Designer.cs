@@ -71,7 +71,7 @@
             this.dtgvSinhVien.ReadOnly = true;
             this.dtgvSinhVien.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dtgvSinhVien.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.AutoSizeToFirstHeader;
-            this.dtgvSinhVien.Size = new System.Drawing.Size(1155, 354);
+            this.dtgvSinhVien.Size = new System.Drawing.Size(971, 354);
             this.dtgvSinhVien.TabIndex = 9;
             this.dtgvSinhVien.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvSinhVien_CellContentClick);
             // 
@@ -143,7 +143,7 @@
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox1.Size = new System.Drawing.Size(1155, 110);
+            this.groupBox1.Size = new System.Drawing.Size(971, 110);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tìm kiếm thông tin chuyên khoa";
@@ -189,7 +189,7 @@
             this.panel1.Location = new System.Drawing.Point(0, 464);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1155, 90);
+            this.panel1.Size = new System.Drawing.Size(971, 90);
             this.panel1.TabIndex = 8;
             // 
             // btnThem
@@ -198,7 +198,7 @@
             this.btnThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem.Image = global::Standford_Project.Properties.Resources._103;
             this.btnThem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnThem.Location = new System.Drawing.Point(703, 31);
+            this.btnThem.Location = new System.Drawing.Point(519, 31);
             this.btnThem.Margin = new System.Windows.Forms.Padding(4);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(100, 28);
@@ -213,7 +213,7 @@
             this.btnSua.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua.Image = global::Standford_Project.Properties.Resources.edit;
             this.btnSua.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSua.Location = new System.Drawing.Point(811, 31);
+            this.btnSua.Location = new System.Drawing.Point(627, 31);
             this.btnSua.Margin = new System.Windows.Forms.Padding(4);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(100, 28);
@@ -228,7 +228,7 @@
             this.btnThoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.Image = global::Standford_Project.Properties.Resources.cancel;
             this.btnThoat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnThoat.Location = new System.Drawing.Point(1027, 31);
+            this.btnThoat.Location = new System.Drawing.Point(843, 31);
             this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(100, 28);
@@ -243,7 +243,7 @@
             this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.Image = global::Standford_Project.Properties.Resources.cross;
             this.btnXoa.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnXoa.Location = new System.Drawing.Point(919, 31);
+            this.btnXoa.Location = new System.Drawing.Point(735, 31);
             this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(100, 28);
@@ -256,7 +256,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1155, 554);
+            this.ClientSize = new System.Drawing.Size(971, 554);
             this.Controls.Add(this.dtgvSinhVien);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.panel1);

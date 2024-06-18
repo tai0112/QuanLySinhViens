@@ -104,7 +104,6 @@ namespace Standford_Project.GUI
         {
             if(ThemDiem == true)
             {
-                Debug.WriteLine("a");
                 frmThemDiemThi.MaSV = int.Parse("" + dtgvSinhVien.CurrentRow.Cells[0].Value);
             }
         }
